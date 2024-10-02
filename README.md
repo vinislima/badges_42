@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! My name is Pedro, and I am a Cadet at 42 São Paulo, Brazil</h2>
+<h2 align="left">Hello 👋! My name is Pedro, and I'm a Cadet at 42 São Paulo, Brazil</h2>
 
 ###
 
