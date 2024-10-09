@@ -3,9 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peda-cos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="statistics graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peda-cos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="language graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=peda-cos&theme=dracula&no-frame=true&no-bg=false" height="150" alt="trophy graph"  />
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/peda-cos?1337Badge=off&UM6P=off" alt="peda-cos's 42 stats" /></a>
 </div>
 
 ###
