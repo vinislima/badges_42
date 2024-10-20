@@ -33,9 +33,9 @@
 <div align="center">
   <a href="https://github.com/peda-cos/42_piscine"><img src="./badges/piscina.png" alt="Piscine Badge" height="120" /></a>
   <a href="https://github.com/peda-cos/42_warmup"><img src="./badges/phase_onem.png" alt="Phase One Badge" height="120" /></a>
+  <a href="https://github.com/peda-cos/ft_libft"><img src="./badges/libftm.png" alt="Libft Badge" height="120" /></a>
   <!--
-  <img src="./badges/libftm.png" alt="Libft Badge" height="120" />
-  <img src="./badges/get_next_linem.png" alt="Get Next Line Badge" height="120" />
+  <a href="https://github.com/peda-cos/get_next_line"><img src="./badges/get_next_linem.png" alt="Get Next Line Badge" height="120" /></a>
   <img src="./badges/ft_printfm.png" alt="ft_printf Badge" height="120" />
   <img src="./badges/born2berootm.png" alt="Born2beRoot Badge" height="120" />
   <img src="./badges/so_longm.png" alt="So Long Badge" height="120" />
