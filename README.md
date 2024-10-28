@@ -2,7 +2,7 @@
 
 ---
 
-[![peda-cos's 42 stats](https://badge.mediaplus.ma/colorfulwaves/peda-cos)](https://github.com/oakoudad/badge42)
+[![peda-cos's 42 stats](https://badge.mediaplus.ma/colorfulwaves/peda-cos?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ---
 
