@@ -31,10 +31,3 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peda-cos@student.42sp.org.br)
 
 ---
-
-### 📊 GitHub Stats
-
-![STATS](https://github-readme-stats.vercel.app/api?username=peda-cos&theme=gruvbox)
-![TOPLANG](https://github-readme-stats.vercel.app/api/top-langs/?username=peda-cos&theme=gruvbox)
-
----
