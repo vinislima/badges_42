@@ -1,4 +1,4 @@
-## Hello 👋! My name is Pedro, and I'm a Cadet at 42 São Paulo, Brazil
+# Hello 👋! My name is Pedro, and I'm a Cadet at 42 São Paulo
 
 ---
 
