@@ -22,6 +22,7 @@
 [![42_PISCINE](./badges/piscina.png)](https://github.com/peda-cos/42_piscine)
 [![42_WARMUP](./badges/phase_onem.png)](https://github.com/peda-cos/42_warmup)
 [![FT_LIBFT](./badges/libftm.png)](https://github.com/peda-cos/ft_libft)
+[![FT_PRINTF](./badges/ft_printfe.png)](https://github.com/peda-cos/ft_printf)
 
 ---
 
