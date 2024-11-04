@@ -1,7 +1,5 @@
 # Hello 👋! I'm Pedro, a Cadet at 42 São Paulo
 
----
-
 [![peda-cos's 42 stats](https://badge.mediaplus.ma/colorfulwaves/peda-cos?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ---
@@ -30,5 +28,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrocsmonteiro)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peda-cos@student.42sp.org.br)
-
----
