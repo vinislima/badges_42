@@ -35,4 +35,4 @@
 
 ### My Holy Graph
 
-[holygraph](./holygraph.png)
+![holygraph](./holygraph.png)
