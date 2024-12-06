@@ -33,27 +33,6 @@
 
 ---
 
-```sh
-#!/bin/bash
-
-MAC_ADDRESSES=$(bluetoothctl paired-devices | awk '{print $2}')
-if [ -z "$MAC_ADDRESSES" ]; then
-  echo "Nenhum dispositivo Bluetooth pareado encontrado."
-  exit 0
-fi
-REMOVE_SCRIPT="remove_bluetooth_devices.sh"
-echo "#!/bin/bash" > $REMOVE_SCRIPT
-echo "bluetoothctl << EOF" >> $REMOVE_SCRIPT
-for MAC in $MAC_ADDRESSES; do
-  echo "remove $MAC" >> $REMOVE_SCRIPT
-done
-echo "EOF" >> $REMOVE_SCRIPT
-chmod +x $REMOVE_SCRIPT
-./$REMOVE_SCRIPT
-rm -f $REMOVE_SCRIPT
-echo "Todos os dispositivos Bluetooth foram removidos."
-```
-
 ### My Holy Graph
 
 ![holygraph](./graph.png)
