@@ -25,7 +25,7 @@
 [![Born2beroot](./badges/born2berootm.png)](https://github.com/peda-cos/Born2beroot)
 [![Pipex](./badges/pipexe.png)](https://github.com/peda-cos/Pipex)
 [![FdF](./badges/fdfe.png)](https://github.com/peda-cos/FdF)
-[![Push_Swap](./badges/push_swapn.png)](https://github.com/peda-cos/push_swap)
+[![Push_Swap](./badges/push_swape.png)](https://github.com/peda-cos/push_swap)
 
 ---
 
