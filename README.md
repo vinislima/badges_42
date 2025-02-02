@@ -1,7 +1,5 @@
 # Hello 👋! I'm Pedro, a Cadet at 42 São Paulo
 
-[![peda-cos's 42 stats](https://badge.mediaplus.ma/colorfulwaves/peda-cos?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
 ---
 
 ### 🚀 Technologies & Tools
