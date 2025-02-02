@@ -1,7 +1,5 @@
 # Hello 👋! I'm Pedro, a Cadet at 42 São Paulo
 
----
-
 ### 🚀 Technologies & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
