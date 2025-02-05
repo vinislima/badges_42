@@ -22,6 +22,7 @@
 [![Pipex](./badges/pipexe.png)](https://github.com/peda-cos/Pipex)
 [![FdF](./badges/fdfe.png)](https://github.com/peda-cos/FdF)
 [![Push_Swap](./badges/push_swape.png)](https://github.com/peda-cos/push_swap)
+[![Philosophers](./badges/philosophersn.png)](https://github.com/peda-cos/Philosophers)
 
 ---
 
