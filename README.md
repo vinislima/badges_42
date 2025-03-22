@@ -12,7 +12,7 @@
 
 ---
 
-### 📚 Completed Projects at 42
+### 📚 Projects at 42
 [![Piscine](./badges/piscina.png)](https://github.com/peda-cos/42_piscine)
 [![Warmup](./badges/phase_onem.png)](https://github.com/peda-cos/42_warmup)
 [![Libft](./badges/libftm.png)](https://github.com/peda-cos/ft_libft)
