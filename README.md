@@ -1,4 +1,4 @@
-# Hello 👋! I'm Pedro, a Cadet at 42 São Paulo
+![peda-cos's 42 profile](https://42term.vercel.app/api/widget/student/peda-cos?theme=dark)
 
 ### 🚀 Technologies & Tools
 
